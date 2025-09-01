@@ -1,0 +1,47 @@
+
+# React Native
+node_modules/
+android/app/build/
+ios/Pods/
+ios/build/
+*.iml
+.gradle/
+.idea/
+*.log
+*.keystore
+*.jks
+.env
+.env.*
+*.xcworkspace
+*.xcodeproj
+*.pbxproj
+*.xcuserstate
+*.xcuserdata/
+*.DS_Store
+*.swp
+*.swo
+*.apk
+*.ipa
+
+# Firebase config (if stored locally)
+firebase-debug.log
+firebase.json
+
+# Metro bundler cache
+.expo/
+.expo-shared/
+babel.config.js
+metro.config.js
+packager-info.json
+react-native.config.js
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
