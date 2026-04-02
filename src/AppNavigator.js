@@ -7,6 +7,8 @@ import ProfileScreen from "./screens/ProfileScreen";
 import MatchScreen from "./screens/MatchScreen";
 import ChatScreen from "./screens/ChatScreen";
 
+import blabla
+
 const Stack = createNativeStackNavigator();
 
 export default function AppNavigator() {
